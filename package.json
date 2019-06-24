@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Sample CRI code",
+  "main": "click.js",
+  "dependencies": {
+    "chrome-remote-interface": "^0.27.2"
+  },
+  "devDependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "chrome-launcher": "^0.10.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
