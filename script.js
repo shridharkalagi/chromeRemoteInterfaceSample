@@ -56,6 +56,3 @@ CDP(async function(client) {
   console.error('Cannot connect to browser:', err);
 });
 
-
-const CDP = require('chrome-remote-interface');
-
